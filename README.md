@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate **developer** with a strong focus
 
 ## 🚀 About Me
 
+- 🌱 **Lifelong Learner**: Currently exploring **MERN Stack**.
 - 💻 **Tech Enthusiast**: I enjoy working on both **front-end** and **back-end** technologies.
 - 🛠️ **Problem Solver**: Building elegant solutions to complex problems keeps me motivated.
-- 🌱 **Lifelong Learner**: Currently exploring [your current tech focus, e.g., "React Native", "TypeScript", "Web3", etc.].
 - 🎯 **Goal-Oriented**: My aim is to craft software that makes a difference.
 
 ---
@@ -30,6 +30,7 @@ Here are some tools and technologies I work with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff) 
 
 **Tools & Platforms**  
@@ -65,14 +66,17 @@ Here are some of my most notable projects:
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1211912253461495808) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rvirush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravirush_) 
+---
+-->
+
+## 🤝 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjitha-neendu/)  
 
 Feel free to connect with me or reach out for collaboration opportunities:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjitha-neendu/) 
 - 🌐 [Portfolio](https://your-portfolio-url/)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-
----
--->
+- 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
+  
 ⭐ **If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.**
