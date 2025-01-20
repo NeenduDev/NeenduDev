@@ -76,7 +76,7 @@ Here are some of my most notable projects:
 Feel free to connect with me or reach out for collaboration opportunities:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjitha-neendu/) 
-- 🌐 [Portfolio](https://your-portfolio-url/)
+- 🌐 [Portfolio](https://hold-on-under-construction.NeenduDev.me/)
 - 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
   
 ⭐ **If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.**
