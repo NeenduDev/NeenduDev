@@ -46,6 +46,13 @@ Here are some tools and technologies I work with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeenduDev&show_icons=true&theme=radical&cache_seconds=1800" alt="NeenduDev's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical" alt="NeenduDev's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev" alt="NeenduDev's Streak Stats" />
+</p>
 
 <!--
 ---
