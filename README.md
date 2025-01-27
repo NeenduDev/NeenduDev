@@ -43,18 +43,22 @@ Here are some tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages" width="48%" style="border-radius: 10px; border: 2px solid #333;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats" width="48%" style="border-radius: 10px; border: 2px solid #333;" />
+</p>
+
+
+ 
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeenduDev&show_icons=true&theme=radical&cache_seconds=1800" alt="NeenduDev's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical" alt="NeenduDev's Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev" alt="NeenduDev's Streak Stats" />
-</p>
 
-<!--
+
 ---
 
 ## 🔥 Top Projects
