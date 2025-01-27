@@ -46,9 +46,10 @@ Here are some tools and technologies I work with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages" width="48%" style="border-radius: 10px; border: 2px solid #333;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats" width="48%" style="border-radius: 10px; border: 2px solid #333;" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats" width="70%" style="border-radius: 10px; border: 2px solid #333;" />
+</p>
 
  
 
@@ -90,4 +91,7 @@ Feel free to connect with me or reach out for collaboration opportunities:
 - 🌐 [Portfolio](https://hold-on-under-construction.NeenduDev.me/)
 - 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
   
-⭐ **If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.**
+<p align="center"> 
+  ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong> 
+</p>
+
