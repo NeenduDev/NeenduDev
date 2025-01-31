@@ -1,4 +1,8 @@
-# 👋 Hello, I'm NeenduDev!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I'm+NeenduDev!;%F0%9F%9A%80+Full-Stack+Developer+%26+AI%2FML+Enthusiast+%F0%9F%92%A1)](https://git.io/typing-svg)
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=NeenduDev&label=Profile%20views&color=ff0000&style=flat" alt="NeenduDev" /> 
+</p>
+
 
 Welcome to my GitHub profile! I'm a passionate **developer** with a strong focus on creating scalable, user-friendly, and efficient software solutions. I thrive on learning new technologies and applying them to solve real-world problems.
 
