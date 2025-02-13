@@ -55,7 +55,7 @@ Here are some tools and technologies I work with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats" width="70%" style="border-radius: 10px; border: 2px solid #333;" />
 </p>
 
- 
+
 
 <!--
 <p align="center">
@@ -94,8 +94,15 @@ Feel free to connect with me or reach out for collaboration opportunities:
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjitha-neendu/) 
 - 🌐 [Portfolio](https://hold-on-under-construction.NeenduDev.me/)
 - 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
+
+ ### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <p align="center"> 
-  ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong> 
+  ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong>  
 </p>
+
+
+---
+
 
