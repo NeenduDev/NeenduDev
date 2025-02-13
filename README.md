@@ -47,29 +47,32 @@ Here are some tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages"  style="border-radius: 10px; border: 2px solid #333;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats"  style="border-radius: 10px; border: 2px solid #333;" />
+</p>
+
+<!--
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages"  style="border-radius: 10px; border: 2px solid #333;" />
-</p>
- 
 
 
 
 </td>
 <td width="50%" align="center">
   
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats"  style="border-radius: 10px; border: 2px solid #333;" />
-</p>
+
 
 </td>
 </tr>
 </table>
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeenduDev&show_icons=true&theme=radical&cache_seconds=1800" alt="NeenduDev's GitHub Stats" />
 </p>
