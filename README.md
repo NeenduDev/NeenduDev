@@ -47,15 +47,28 @@ Here are some tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages" width="48%" style="border-radius: 10px; border: 2px solid #333;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeenduDev&layout=compact&theme=radical&langs_count=6" alt="NeenduDev's Top Languages"  style="border-radius: 10px; border: 2px solid #333;" />
 </p>
+<br> 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats" width="70%" style="border-radius: 10px; border: 2px solid #333;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats"  style="border-radius: 10px; border: 2px solid #333;" />
 </p>
 
+</td>
+<td width="50%" align="center">
+  
 
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+</tr>
+</table>
 
 <!--
 <p align="center">
@@ -82,9 +95,6 @@ Here are some of my most notable projects:
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1211912253461495808) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rvirush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravirush_) 
----
 -->
 
 ## 🤝 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjitha-neendu/)  
@@ -95,14 +105,9 @@ Feel free to connect with me or reach out for collaboration opportunities:
 - 🌐 [Portfolio](https://hold-on-under-construction.NeenduDev.me/)
 - 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
 
- ### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
   
 <p align="center"> 
   ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong>  
 </p>
-
-
----
-
-
