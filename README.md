@@ -34,6 +34,8 @@ Here are some tools and technologies I work with:
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=ffffff)
+
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
@@ -43,6 +45,8 @@ Here are some tools and technologies I work with:
 ![Create React App](https://img.shields.io/badge/Create_React_App-09D3AC?style=flat&logo=react&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+![Parcel](https://img.shields.io/badge/Parcel-F7B93E?style=flat\&logo=parcel\&logoColor=ffffff)
+
 ---
 
 ## 📈 GitHub Stats
