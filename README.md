@@ -100,7 +100,7 @@ Here are some tools and technologies I work with:
       <tr>
         <td align="center">
           <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Heart Hands.png"
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Writing Hand.png"
             width="60px"
           />
         </td>
@@ -112,7 +112,7 @@ Here are some tools and technologies I work with:
       <tr>
         <td align="center">
           <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Heart Hands.png"
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Victory Hand.png"
             width="60px"
           />
         </td>
@@ -125,7 +125,7 @@ Here are some tools and technologies I work with:
       <tr>
         <td align="center">
           <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Heart Hands.png"
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Victory Hand.png"
             width="60px"
           />
         </td>
@@ -152,8 +152,5 @@ Feel free to connect with me or reach out for collaboration opportunities:
   
 <p align="center"> 
   ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong>  
-</p>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</p>
