@@ -100,7 +100,7 @@ Here are some tools and technologies I work with:
       <tr>
         <td align="center">
           <img
-            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred Points.png"
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling Heart.png"
             width="60px"
           />
         </td>
