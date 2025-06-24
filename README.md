@@ -4,16 +4,47 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a passionate **developer** with a strong focus on creating scalable, user-friendly, and efficient software solutions. I thrive on learning new technologies and applying them to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **full-stack developer and AI specialist** with a strong focus on creating scalable, user-friendly, and efficient software solutions. I thrive on learning new technologies and applying them to solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Lifelong Learner**: Currently exploring **MERN Stack**.
-- 💻 **Tech Enthusiast**: I enjoy working on both **front-end** and **back-end** technologies.
-- 🛠️ **Problem Solver**: Building elegant solutions to complex problems keeps me motivated.
-- 🎯 **Goal-Oriented**: My aim is to craft software that makes a difference.
+ 
+  #### 🎯 Core Strengths: 
+  - Developing intelligent, feature-rich web platforms is one of my core strengths. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="AI Developer" width="200" />
+  - Integrating machine learning and artificial  intelligence into practical applications
+  - Constructing scalable and resilient backend systems
+  - Providing streamlined and intuitive front-end experiences
+  - Followed best practices in coding standards and software architecture
+  
+  #### 🔍  Areas of Interest:
+  <details>
+    <summary>🔵 Software Engineering | AI | Blockchain</summary>
+    <ul>
+      <li>Investigating deep learning models for intelligent system design</li>
+      <li>
+        Gaining hands-on experience in building decentralized applications
+        (DApps) on blockchain platforms
+      </li>
+      <li>
+        Exploring modern web architectures, including Progressive Web Apps
+        (PWAs) and Single Page Applications (SPAs), to build fast, installable,
+        and seamless user experiences
+      </li>
+      <li>Explored natural language processing techniques</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><b>🔵 Project Management</b></summary>
+    <ul>
+      <li>Exploring project management through leading a 3-person team in our Hackathon project</li>     
+      <li>Facilitated client meetings, received requirements, directed project schedules and deliverables</li>
+      <li>Experimenting with version control workflows and CI/CD strategies for smoother deployments</li>
+    </ul>
+  </details>
+ 
 
 ---
 
@@ -49,6 +80,7 @@ Here are some tools and technologies I work with:
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -59,50 +91,53 @@ Here are some tools and technologies I work with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeenduDev&theme=radical" alt="NeenduDev's Streak Stats"  style="border-radius: 10px; border: 2px solid #333;" />
 </p>
 
-<!--
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
+<div>
+  <h2>🎓 Education & Qualifications</h2>
 
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred Points.png"
+            width="60px"
+          />
+        </td>
+        <td>
+          <strong>iCET Institute</strong><br />Higher Diploma in Computer
+          Engineering with Applied Artificial Intelligence<br />1st Year Student
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Heart Hands.png"
+            width="60px"
+          />
+        </td>
+        <td>
+          <strong><i>National Youth Services Council of Sri Lanka</i></strong
+          ><br />National Vocational Qualifier - ICT Technician (ICTT)
+          <br />Certified by a recognized national body
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img
+            src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Heart Hands.png"
+            width="60px"
+          />
+        </td>
+        <td>
+          <strong>Mahanama College, Colombo 03</strong><br />Primary & Secondary
+          Education<br />Strong foundation in mathematics & science
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-
-</td>
-<td width="50%" align="center">
-  
-
-
-</td>
-</tr>
-</table>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeenduDev&show_icons=true&theme=radical&cache_seconds=1800" alt="NeenduDev's GitHub Stats" />
-</p>
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔥 Top Projects
-
-Here are some of my most notable projects:
-
-### 🌐 [Project Name 1](https://github.com/NeenduDev/project-1)
-- **Description**: Brief overview of what the project does.
-- **Tech Stack**: React, Node.js, Express, MongoDB.
-
-### 🎨 [Project Name 2](https://github.com/NeenduDev/project-2)
-- **Description**: Another cool project that solves a specific problem.
-- **Tech Stack**: TypeScript, CSS, and more.
-
-> _Check out my [repositories](https://github.com/NeenduDev?tab=repositories) for more!_
-
----
-
--->
 
 ## 🤝 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjitha-neendu/)  
 
@@ -118,3 +153,7 @@ Feel free to connect with me or reach out for collaboration opportunities:
 <p align="center"> 
   ⭐ <strong>If you like my work, consider giving my repositories a star! Your support motivates me to create more amazing projects.</strong>  
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
