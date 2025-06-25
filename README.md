@@ -4,7 +4,7 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a passionate **full-stack developer and AI specialist** with a strong focus on creating scalable, user-friendly, and efficient software solutions. I thrive on learning new technologies and applying them to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **full-stack developer and AI Enthusiast** with a strong focus on creating scalable, user-friendly, and efficient software solutions. I thrive on learning new technologies and applying them to solve real-world problems.
 
 ---
 
@@ -13,26 +13,24 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer and AI spe
  
   #### 🎯 Core Strengths: 
   - Developing intelligent, feature-rich web platforms is one of my core strengths. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="AI Developer" width="200" />
-  - Integrating machine learning and artificial  intelligence into practical applications
-  - Constructing scalable and resilient backend systems
   - Providing streamlined and intuitive front-end experiences
-  - Followed best practices in coding standards and software architecture
+  - AI Integration: Leveraging pre-trained models/APIs (e.g., OpenAI, Hugging Face) for smart features.
+  - Clean Architecture: Focus on maintainable code and scalable backends.
   
   #### 🔍  Areas of Interest:
   <details>
     <summary>🔵 Software Engineering | AI | Blockchain</summary>
     <ul>
-      <li>Investigating deep learning models for intelligent system design</li>
-      <li>
-        Gaining hands-on experience in building decentralized applications
-        (DApps) on blockchain platforms
-      </li>
       <li>
         Exploring modern web architectures, including Progressive Web Apps
         (PWAs) and Single Page Applications (SPAs), to build fast, installable,
         and seamless user experiences
       </li>
-      <li>Explored natural language processing techniques</li>
+      <li>Investigating deep learning models for intelligent system design</li>
+      <li>Exploring natural language processing techniques</li>
+      <li>
+       Web3/NFTs: Creating and selling NFTs, exploring blockchain platforms
+      </li>
     </ul>
   </details>
 
