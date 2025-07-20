@@ -142,10 +142,9 @@ Here are some tools and technologies I work with:
 Feel free to connect with me or reach out for collaboration opportunities:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjitha-neendu/) 
-- 🌐 [Portfolio](https://hold-on-under-construction.NeenduDev.me/)
+- 🌐 [Portfolio](https://portfolio-plum-eta-48.vercel.app/)
 - 📧 Email: [neendu.wickremasinghe@gmail.com](mailto:neendu.wickremasinghe@gmail.com)
-
-
+  
 
   
 <p align="center"> 
